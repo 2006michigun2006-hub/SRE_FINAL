@@ -15,3 +15,5 @@ node_modules/
 **/*.tfvars
 **/*.tfvars.json
 .terraform.lock.hcl
+
+.kilo
