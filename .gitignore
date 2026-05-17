@@ -1,0 +1,17 @@
+# Node.js dependencies
+node_modules/
+
+# Local environment configuration (Secrets)
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Terraform files
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.backup
+**/*.tfvars
+**/*.tfvars.json
+.terraform.lock.hcl
